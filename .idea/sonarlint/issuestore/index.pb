@@ -9,3 +9,5 @@ S
 #contracts/data-standardization.clar,9/c/9c7ea4f43d817f0688e60386731743d2fdae659f
 O
 contracts/patient-identity.clar,c/a/cae31cf20ae94b1d7dd7e71ba95581f84e549b91
+T
+$contracts/provider-verification.clar,9/0/90e04ec54ebccb20c9508bc713734ad7f3a6965e
