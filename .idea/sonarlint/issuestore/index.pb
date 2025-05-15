@@ -5,3 +5,5 @@ N
 contracts/access-tracking.clar,5/2/521e7df5a55bea41a8990402c60cf4e55c468992
 Q
 !contracts/consent-management.clar,2/e/2e5a2504188b18fe18335d2beebfa11e060fc3fb
+S
+#contracts/data-standardization.clar,9/c/9c7ea4f43d817f0688e60386731743d2fdae659f
