@@ -7,3 +7,5 @@ Q
 !contracts/consent-management.clar,2/e/2e5a2504188b18fe18335d2beebfa11e060fc3fb
 S
 #contracts/data-standardization.clar,9/c/9c7ea4f43d817f0688e60386731743d2fdae659f
+O
+contracts/patient-identity.clar,c/a/cae31cf20ae94b1d7dd7e71ba95581f84e549b91
